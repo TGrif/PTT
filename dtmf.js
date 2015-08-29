@@ -2,7 +2,7 @@
  * 
  *  dtmf.js
  * 
- * tribute to freakers
+ * tribute to Phreakers
  * @TGrif 2015 GPL
  */
 
