@@ -1,6 +1,6 @@
 /**
  * 
- *  dtmf.js
+ *  ptt.js
  * 
  * tribute to Phreakers
  * @TGrif 2015 GPL
