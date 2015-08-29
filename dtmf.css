@@ -1,0 +1,24 @@
+/** 
+ * tribute to freakers
+ * @TGrif 2015 GPL
+ *  
+ *  dtmf.css
+ */
+
+
+body {
+    margin: 10px;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+#title {
+    display: inline-block;
+}
+
+input[name=telephone_number] {
+    margin: 10px;
+}
