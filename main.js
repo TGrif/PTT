@@ -1,6 +1,6 @@
 /**
  * 
- *  PTT.js
+ *  main.js
  * 
  * tribute to Phreakers
  * @TGrif 2015 GPL
@@ -13,10 +13,10 @@
             
             audioCtx        = new AudioContext(),
                     
-                    
+    
                 BPM = 120,
                 beatsPerSecond = 60 / BPM,
-                timer = beatsPerSecond / 8,
+                timer = beatsPerSecond / 10,
                     
                     
                     
