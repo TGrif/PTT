@@ -7,8 +7,3 @@ Phreaking is a slang term coined to describe the activity of a culture of people
 
 And it's a private joke concerning my previous job as a postman.  
 
-
-
-demo: http://direct-shoot.com/PTT
-
-
